@@ -1,0 +1,13 @@
+# Operator owns everything by default
+* @the-mossy-roots
+
+# Each contributor owns only their folder
+contributors/pm-001/ @pm-001
+contributors/cto-001/ @cto-001
+contributors/dev-001/ @dev-001
+contributors/designer-001/ @designer-001
+contributors/growth-001/ @growth-001
+
+# Operator owns fingerprints and operator folder
+fingerprints/ @the-mossy-roots
+operator/ @the-mossy-roots
